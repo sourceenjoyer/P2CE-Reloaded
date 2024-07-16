@@ -5,6 +5,7 @@ This is a fan port! I am not the creator of Portal Reloaded. Real developer site
 ## 
 Most maps work (COOP does not work, that's why it was cut out). I have not tested the port for full playability. The only bug I noticed: the music doesn't work.
 I don't know why this is happening.
+bik files have been converted to webm format. Unfortunately, with loss of quality
 
 ## Launching (Steam)
 Mods can be launched from Steam if placed in the `steamapps/sourcemods/` folder. Note that you must quit and relaunch Steam for your mod to show up when you first create it. 
