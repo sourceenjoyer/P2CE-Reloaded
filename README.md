@@ -8,7 +8,7 @@ I don't know why this is happening.
 bik files have been converted to webm format. Unfortunately, with loss of quality
 
 ## Launching (Steam)
-For the mod to work, you must install [Portal 2: Community Edition](https://store.steampowered.com/app/440000/Portal_2_Community_Edition/) and [Portal Reloaded](https://store.steampowered.com/app/1255980/Portal_Reloaded/).
-Mods can be launched from Steam if placed in the `steamapps/sourcemods/` folder. Note that you must quit and relaunch Steam for your mod to show up when you first create it.
+**For the mod to work, you must install [Portal 2: Community Edition](https://store.steampowered.com/app/440000/Portal_2_Community_Edition/) and [Portal Reloaded](https://store.steampowered.com/app/1255980/Portal_Reloaded/)**.
+Unpack the mod into the `steamapps/sourcemods/` folder. Note that you must quit and relaunch Steam for the mod to appear in your library.
 ### Created with p2ce-mod-template
 [github.com/StrataSource/p2ce-mod-template](https://github.com/StrataSource/p2ce-mod-template)
